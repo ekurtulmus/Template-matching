@@ -1,0 +1,1 @@
+This piece of code performs pattern matching using OpenCV and Matplotlib. A small image used as a template (for example, a cat's face) is searched in a larger image (for example, an image of the entire cat). Different template matching methods are tried and the results are visualized for each method.
